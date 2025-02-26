@@ -72,7 +72,7 @@ const LinksPage = () => {
                 fill="#ec4899"
               />
               
-              <a href="#" className="link">Exclusive Content</a>
+              <a href="https://www.fanvue.com/paige-st-james" className="link">Exclusive Content</a>
               <a href="#" className="link">Telegram</a>
               <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '8px', marginTop: '8px' }}>
   <input 
