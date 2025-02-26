@@ -52,7 +52,7 @@ const LinksPage = () => {
               <div className="profile-image-border"></div>
               <div className="profile-image-container">
                 <img 
-                  src="/images/PaigeProfile.png" 
+                  src="/images/PaigeProfile.webp" 
                   alt="Profile" 
                   className="profile-image"
                 />
